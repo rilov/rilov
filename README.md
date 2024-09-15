@@ -1,6 +1,6 @@
 # Hi there, I'm **Rilov Paloly Kulankara**! 👋
 
-![Banner Image](https://media.licdn.com/dms/image/v2/D5603AQE865GLyPAJtA/profile-displayphoto-shrink_800)
+![Banner Image](https://avatars.githubusercontent.com/u/639140?s=400&u=ca2a805d5973080718d36e4a1de9f2d14e6d7ede&v=4)
 
 ## About Me
 
