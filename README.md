@@ -4,7 +4,8 @@
 
 ## About Me
 
-I'm a passionate software developer and technology leader with over 15 years of experience. Currently working as a **Director of Platform Engineering at RBC Borealis**, I'm involved in developing, architecting, and modernizing multiple applications, including cloud transformations.
+Technology leader with over 15 years of experience and a proven track record in leading, architecting, building, and delivering highly reliable and scalable systems and software across diverse domains, including enterprise applications, machine learning, e-commerce startups, finance, and banking. Currently serving as a Director Plantform Engineering at the Royal Bank of Canada, where I lead a team of engineers focused on DevOps, API development, machine learning, and  process automation.
+
 
 
 - 💬 Ask me about ***Generative AI ***BigData **Cloud Transformation**, **Application Modernization**, and **Data Visualization**
