@@ -6,10 +6,8 @@
 
 I'm a passionate software developer and technology leader with over 15 years of experience. Currently working as a **Director of Platform Engineering at RBC Borealis**, I'm involved in developing, architecting, and modernizing multiple applications, including cloud transformations.
 
-- 🔭 I’m currently working on [Innovative Cloud Solutions](https://github.com/yourusername/YourProject)
-- 🌱 I’m currently learning **Advanced Cloud Architectures** and **Machine Learning**
-- 👯 I’m looking to collaborate on open-source projects related to cloud computing and data visualization
-- 💬 Ask me about **Cloud Transformation**, **Application Modernization**, and **Data Visualization**
+
+- 💬 Ask me about ***Generative AI ***BigData **Cloud Transformation**, **Application Modernization**, and **Data Visualization**
 - 📫 How to reach me: [rilov.kulankara@example.com](mailto:rilov.kulankara@example.com)
 - ⚡ Fun fact: I love exploring new technologies and automating complex processes!
 
