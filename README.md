@@ -1,6 +1,6 @@
 # Hi there, I'm **Rilov Paloly Kulankara**! 👋
 
-![Banner Image](https://avatars.githubusercontent.com/u/639140?s=400&u=ca2a805d5973080718d36e4a1de9f2d14e6d7ede&v=4)
+![Banner Image](https://avatars.githubusercontent.com/u/639140?s=200&u=ca2a805d5973080718d36e4a1de9f2d14e6d7ede&v=4)
 
 ## About Me
 
