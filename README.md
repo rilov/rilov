@@ -8,7 +8,7 @@ I'm a passionate software developer and technology leader with over 15 years of 
 
 
 - 💬 Ask me about ***Generative AI ***BigData **Cloud Transformation**, **Application Modernization**, and **Data Visualization**
-- 📫 How to reach me: [rilov.kulankara@example.com](mailto:rilov.kulankara@example.com)
+- 📫 How to reach me: [rilov.kulankara@example.com](mailto:rilov@hotmail.com)
 - ⚡ Fun fact: I love exploring new technologies and automating complex processes!
 
 ## 🛠️ Experience
@@ -91,8 +91,8 @@ I'm a passionate software developer and technology leader with over 15 years of 
 ![Filenet](https://img.shields.io/badge/-Filenet-003865?logo=ibm&logoColor=white&style=flat)
 
 ## 📊 GitHub Stats
-
-![Rilov's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+  
+![Rilov's GitHub stats](https://github-readme-stats.vercel.app/api?username=rilov&show_icons=true&theme=radical)
 
 ## 🏆 Publications & Patents
 
