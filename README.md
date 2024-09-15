@@ -1,15 +1,45 @@
-# Hi there, I'm **Rilov Paloly Kulankara**! 👋
+
 
 ![Banner Image](https://avatars.githubusercontent.com/u/639140?s=100&u=ca2a805d5973080718d36e4a1de9f2d14e6d7ede&v=4)
+# Rilov Paloly Kulankara
 
-## About Me
 
-Technology leader with over 15 years of experience and a proven track record in leading, architecting, building, and delivering highly reliable and scalable systems and software across diverse domains, including enterprise applications, machine learning, e-commerce startups, finance, and banking. Currently serving as a Director Plantform Engineering at the Royal Bank of Canada, where I lead a team of engineers focused on DevOps, API development, machine learning, and  process automation.
+## 🛠️ Technologies & Tools
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white&style=flat)
+![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-66CCFF?logo=apache-hadoop&logoColor=black&style=flat)
+![Big Data](https://img.shields.io/badge/-Big%20Data-FF6F00?logo=big-data&logoColor=white&style=flat)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-00C853?logo=ai&logoColor=white&style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=chain&logoColor=white&style=flat)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-FF7043?logo=llama&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Chatbots](https://img.shields.io/badge/-Chatbots-FF9800?logo=chatbot&logoColor=white&style=flat)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=.net&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![APIs](https://img.shields.io/badge/-APIs-FF6F00?logo=api&logoColor=white&style=flat)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?logo=microgenetics&logoColor=white&style=flat)
+![DevOps](https://img.shields.io/badge/-DevOps-5B2C6F?logo=devops&logoColor=white&style=flat)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=machine-learning&logoColor=white&style=flat)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FF4081?logo=data-visualization&logoColor=white&style=flat)
+
+
+
+Technology leader with over 20 years of experience and a proven track record in leading, architecting, building, and delivering highly reliable and scalable systems and software across diverse domains, including enterprise applications, machine learning, e-commerce startups, finance, and banking. Currently serving as a Director Plantform Engineering at the Royal Bank of Canada, where I lead a team of engineers focused on DevOps, API development, machine learning, and  process automation.
 
 
 
 - 💬 Ask me about ***Generative AI ***BigData ****Cloud Transformation**, ****Application Modernization**, and ****Data Visualization**
-- 📫 How to reach me: [rilov.kulankara@example.com](mailto:rilov@hotmail.com)
+- 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/rilovpalolykulankara/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:rilov.kulankara@example.com)
 - ⚡ Fun fact: I love exploring new technologies and automating complex processes!
 
 ## 🛠️ Experience
@@ -76,20 +106,6 @@ Technology leader with over 15 years of experience and a proven track record in 
 - Participated in client communications, requirement analysis, coding, and testing.
 - Developed data access layers and business logic layers.
 - Integrated applications with project registration, HR, and accounting systems using BizTalk 2004.
-
-## 🛠️ Technologies & Tools
-
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
-![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-0F9D58?logo=cloud&logoColor=white&style=flat)
-![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?logo=microgenetics&logoColor=white&style=flat)
-![DevOps](https://img.shields.io/badge/-DevOps-5B2C6F?logo=devops&logoColor=white&style=flat)
-![BizTalk](https://img.shields.io/badge/-BizTalk-CC2927?logo=microsoft&logoColor=white&style=flat)
-![Filenet](https://img.shields.io/badge/-Filenet-003865?logo=ibm&logoColor=white&style=flat)
 
 ## 📊 GitHub Stats
   
