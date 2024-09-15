@@ -8,7 +8,7 @@ Technology leader with over 15 years of experience and a proven track record in 
 
 
 
-- 💬 Ask me about ***Generative AI ***BigData **Cloud Transformation**, **Application Modernization**, and **Data Visualization**
+- 💬 Ask me about ***Generative AI ***BigData ****Cloud Transformation**, ****Application Modernization**, and ****Data Visualization**
 - 📫 How to reach me: [rilov.kulankara@example.com](mailto:rilov@hotmail.com)
 - ⚡ Fun fact: I love exploring new technologies and automating complex processes!
 
